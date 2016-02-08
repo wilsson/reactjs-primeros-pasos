@@ -1,0 +1,21 @@
+{
+  "name": "mounting-componentWillMount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-core": "^6.4.5",
+    "react-dom": "^0.14.7",
+    "babel-preset-react": "^6.3.13",
+    "babel-loader": "^6.2.2",
+    "webpack": "^1.12.13",
+    "react": "^0.14.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wilsson",
+  "license": "MIT"
+}
