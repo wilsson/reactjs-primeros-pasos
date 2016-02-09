@@ -6,7 +6,7 @@ class MyComponent extends React.Component{
     console.log('Update MyComponent');
   }
   render(){
-    return <div>my Component {this.props.name}<div>
+    return <div>my Component {this.props.name}</div>
   }
 }
 
